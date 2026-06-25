@@ -2,6 +2,6 @@
 
 
 ## Autore
-Lumjan Arifi
-Florentin Berisha
-Jon Jashari
+- Lumjan Arifi
+- Florentin Berisha
+- Jon Jashari
