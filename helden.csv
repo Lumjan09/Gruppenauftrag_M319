@@ -1,0 +1,4 @@
+id,name,rolle,max_hp,current_hp,attack,defense,speed,equipped_weapon_id,equipped_armor_id,equipped_accessory_id
+1,Ron,arkan,120,120,18,8,14,1,2,3
+2,Lumjan,druide,100,100,14,10,16,4,5,6
+3,Florentin,schmied,130,130,16,16,10,7,8,9
