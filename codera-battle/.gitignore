@@ -1,0 +1,16 @@
+# Konfiguration mit echten Zugangsdaten
+.env
+
+# Logdateien (werden zur Laufzeit erzeugt und rotiert)
+logs/
+*.log
+
+# Go-Buildartefakte
+/codera-battle
+*.exe
+*.out
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
