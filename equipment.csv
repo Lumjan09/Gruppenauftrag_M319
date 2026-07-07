@@ -1,0 +1,10 @@
+id,name,typ,attack_bonus,defense_bonus,speed_bonus,hp_bonus
+1,Pergament-Stab,weapon,8,0,0,0
+2,Runen-Gewand,armor,0,5,0,0
+3,Tintenfass-Amulett,accessory,0,0,3,20
+4,Transformations-Kristall,weapon,6,0,0,0
+5,Datenstrom-Mantel,armor,0,4,0,0
+6,Schema-Ring,accessory,0,0,5,10
+7,Architekten-Hammer,weapon,7,0,0,0
+8,Runen-Plattenpanzer,armor,0,9,0,0
+9,Siegelring-der-Stabilitaet,accessory,0,0,1,25
